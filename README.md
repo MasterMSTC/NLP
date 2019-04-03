@@ -1,7 +1,7 @@
 # NLP
 
 # Materials for MSTC Seminar:
-- ## Building Deep Learning models for NLP
+- ## *Building Deep Learning models for NLP*
 
 ## Carlos Rodríguez Abellán
-https://www.linkedin.com/in/carlosrodriguezabellan/
+## https://www.linkedin.com/in/carlosrodriguezabellan/
